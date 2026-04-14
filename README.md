@@ -54,6 +54,7 @@ Marks-Average-Calculator/
 ## 👨‍💻 Author
 
 ** Sebin Raju **
+
 B.Tech Comuter Science Student
 
 ---
